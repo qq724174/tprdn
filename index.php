@@ -6,4 +6,5 @@
  * Time: 1:26
  */
 
-echo 'fuck Git..!';
+echo 'fuck Git 1..!';
+echo 'fuck Git 2..!';
